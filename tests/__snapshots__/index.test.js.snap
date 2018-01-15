@@ -3,6 +3,7 @@
 exports[`Steps render renders correctly 1`] = `
 <div
   class="rc-steps rc-steps-horizontal rc-steps-label-horizontal"
+  steps="[object Object],[object Object],[object Object],[object Object]"
 >
   <div
     class="rc-steps-item rc-steps-item-process"
@@ -118,6 +119,7 @@ exports[`Steps render renders correctly 1`] = `
 exports[`Steps render renders current correctly 1`] = `
 <div
   class="rc-steps rc-steps-horizontal rc-steps-label-horizontal"
+  steps="[object Object],[object Object],[object Object],[object Object]"
 >
   <div
     class="rc-steps-item rc-steps-item-finish"
@@ -233,6 +235,7 @@ exports[`Steps render renders current correctly 1`] = `
 exports[`Steps render renders labelPlacement correctly 1`] = `
 <div
   class="rc-steps rc-steps-horizontal rc-steps-label-vertical"
+  steps="[object Object],[object Object],[object Object],[object Object]"
 >
   <div
     class="rc-steps-item rc-steps-item-process"
@@ -348,6 +351,7 @@ exports[`Steps render renders labelPlacement correctly 1`] = `
 exports[`Steps render renders progressDot correctly 1`] = `
 <div
   class="rc-steps rc-steps-horizontal rc-steps-label-vertical rc-steps-dot"
+  steps="[object Object],[object Object],[object Object],[object Object]"
 >
   <div
     class="rc-steps-item rc-steps-item-process"
@@ -479,6 +483,7 @@ exports[`Steps render renders progressDot correctly 1`] = `
 exports[`Steps render renders progressDot function correctly 1`] = `
 <div
   class="rc-steps rc-steps-horizontal rc-steps-label-vertical rc-steps-dot"
+  steps="[object Object],[object Object],[object Object],[object Object]"
 >
   <div
     class="rc-steps-item rc-steps-item-process"
@@ -602,6 +607,7 @@ exports[`Steps render renders progressDot function correctly 1`] = `
 exports[`Steps render renders status correctly 1`] = `
 <div
   class="rc-steps rc-steps-horizontal rc-steps-label-horizontal"
+  steps="[object Object],[object Object],[object Object],[object Object]"
 >
   <div
     class="rc-steps-item rc-steps-item-finish"
@@ -1124,6 +1130,7 @@ exports[`Steps render renders step with tailContent 1`] = `
 exports[`Steps render renders vertical correctly 1`] = `
 <div
   class="rc-steps rc-steps-vertical"
+  steps="[object Object],[object Object],[object Object],[object Object]"
 >
   <div
     class="rc-steps-item rc-steps-item-process"
