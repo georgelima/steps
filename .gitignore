@@ -24,4 +24,3 @@ dist
 assets/**/*.css
 build
 lib
-es
